@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Labalobich
-- 🌱 I’m currently learning Python
 
 <!---
 Labalobich/Labalobich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
